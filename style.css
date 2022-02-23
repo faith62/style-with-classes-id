@@ -1,0 +1,11 @@
+.intro{
+    font-style: italic;
+}
+#line1 {
+    color: blueviolet;
+    font-size: 20px;
+}
+.author{       /*. author selector targets all elements with the class auther/p.author targets only <p> element with class author*/
+    color: red;
+    font-size: 12px;
+}
